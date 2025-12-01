@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 1,
+    "FirstName": "Nika",
+    "LastName": "Geladze",
+    "PersonalId": "2402",
+    "Password": "4444",
+    "Balance": 0
+  },
+  {
+    "Id": 2,
+    "FirstName": "NIka",
+    "LastName": "Geladze",
+    "PersonalId": "1111",
+    "Password": "1111",
+    "Balance": 2000
+  },
+  {
+    "Id": 3,
+    "FirstName": "Avto",
+    "LastName": "Geladze",
+    "PersonalId": "3333",
+    "Password": "3333",
+    "Balance": 0
+  },
+  {
+    "Id": 4,
+    "FirstName": "pevle",
+    "LastName": "pevle",
+    "PersonalId": "5555",
+    "Password": "5555",
+    "Balance": 3434
+  },
+  {
+    "Id": 5,
+    "FirstName": "Nika",
+    "LastName": "Geladze",
+    "PersonalId": "6666",
+    "Password": "6666",
+    "Balance": 4434
+  },
+  {
+    "Id": 6,
+    "FirstName": "Nika",
+    "LastName": "Gelashvili",
+    "PersonalId": "4545",
+    "Password": "4545",
+    "Balance": 400
+  }
+]

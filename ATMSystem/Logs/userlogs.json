@@ -1,0 +1,51 @@
+[
+  {
+    "UserName": "Nika Geladze",
+    "Operation": "შეავსო ბალანსი 3000 ლარით",
+    "Amount": 3000,
+    "CurrentBalance": 6434,
+    "Date": "2025-12-01T18:01:56.3958845+04:00"
+  },
+  {
+    "UserName": "Nika Geladze",
+    "Operation": "შეამოწმა ბალანსი",
+    "Amount": null,
+    "CurrentBalance": 6434,
+    "Date": "2025-12-01T18:01:59.4059233+04:00"
+  },
+  {
+    "UserName": "Nika Geladze",
+    "Operation": "გაანაღდა 1000 ლარით",
+    "Amount": 1000,
+    "CurrentBalance": 5434,
+    "Date": "2025-12-01T18:02:04.0282705+04:00"
+  },
+  {
+    "UserName": "Nika Geladze",
+    "Operation": "გაანაღდა 1000 ლარით",
+    "Amount": 1000,
+    "CurrentBalance": 4434,
+    "Date": "2025-12-01T18:02:15.6140304+04:00"
+  },
+  {
+    "UserName": "Nika Gelashvili",
+    "Operation": "შეამოწმა ბალანსი",
+    "Amount": null,
+    "CurrentBalance": 0,
+    "Date": "2025-12-01T18:07:53.4686712+04:00"
+  },
+  {
+    "UserName": "Nika Gelashvili",
+    "Operation": "შეავსო ბალანსი 500 ლარით",
+    "Amount": 500,
+    "CurrentBalance": 500,
+    "Date": "2025-12-01T18:07:56.9632392+04:00"
+  },
+  {
+    "UserName": "Nika Gelashvili",
+    "Operation": "გაანაღდა 100 ლარით",
+    "Amount": 100,
+    "CurrentBalance": 400,
+    "Date": "2025-12-01T18:07:59.4308954+04:00"
+  }
+]
